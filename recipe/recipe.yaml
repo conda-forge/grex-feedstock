@@ -1,5 +1,5 @@
 context:
-  version: 1.4.5
+  version: "1.4.6"
 
 package:
   name: grex
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/pemistahl/grex/archive/v${{ version }}.tar.gz
-  sha256: 4e849b29b387afc583856f24923b76052ad90e320c2caacfc6452e6d9deb6b14
+  sha256: 2ab9cb4c3d921711f23ea33a9e60dc11e9eaab450b16d1f2247bea2276822433
 
 build:
   number: 0
